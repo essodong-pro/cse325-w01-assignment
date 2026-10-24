@@ -1,0 +1,8 @@
+Sales Summary
+----------------------------
+Total Sales: $8,767.25
+
+Details:
+ February.csv: $2,536.25
+ January.csv: $2,480.75
+ March.csv: $3,750.25
